@@ -1,4 +1,4 @@
-package org.cs.lamda;
+package org.cs.lambda;
 
 public class Lambdas {
     public static void main(String[] args) {

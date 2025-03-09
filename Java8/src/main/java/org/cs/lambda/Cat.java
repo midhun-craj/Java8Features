@@ -1,4 +1,4 @@
-package org.cs.lamda;
+package org.cs.lambda;
 
 //public class Cat implements Printable{
     public class Cat {

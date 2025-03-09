@@ -1,4 +1,4 @@
-package org.cs.lamda;
+package org.cs.lambda;
 
 @FunctionalInterface
 public interface Printable {
