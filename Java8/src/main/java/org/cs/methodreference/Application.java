@@ -45,10 +45,10 @@ public class Application {
 
         List<String> artists = Arrays.asList("Sam", "Sandra", "Aubrey", "Kendrik", "DrewLove");
         // a. Using lambda
-        List<Person> newArtists = artists.stream()
-                .map(artist -> new Person(artist))
-                .toList();
-        System.out.println(newArtists);
+        // List<Person> newArtists = artists.stream()
+        //        .map(artist -> new Person(artist))
+        //        .toList();
+        // System.out.println(newArtists);
 
         // b. Using method reference
         List<Person> oldArtists = artists.stream()
